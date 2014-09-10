@@ -22,6 +22,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0'        
 
+gem "bootstrap-sass"
 
 group :development, :test do 
 
@@ -41,7 +42,7 @@ end
 gem 'spring'
 
 # Bootstrap gem
-gem "bootstrap-sass"
+
 
 end
 
